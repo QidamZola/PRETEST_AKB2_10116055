@@ -19,7 +19,7 @@ import android.widget.Button;
     membuat layout biodata
 
     CHANGE LOG Minggu 7 april 2019 09:30
-     membuat layout home
+    membuat layout home
  */
 public class MainActivity extends AppCompatActivity {
  private Button button;
